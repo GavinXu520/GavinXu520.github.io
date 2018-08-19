@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[test]]></title>
     <url>%2F2018%2F08%2F18%2Ftest%2F</url>
-    <content type="text"><![CDATA[var gitment = new Gitment({ owner: 'GavinXu520', repo: 'MyBlogComments', oauth: { client_id: '584fa4cadb5dc1e901fa', client_secret: 'edde0938b93657c1d8af93bc434d5f32f729bc14', }, }) gitment.render('container')]]></content>
+    <content type="text"><![CDATA[不错，我就是想这么的吊～ var gitment = new Gitment({ owner: 'GavinXu520', repo: 'MyBlogComments', oauth: { client_id: '584fa4cadb5dc1e901fa', client_secret: 'edde0938b93657c1d8af93bc434d5f32f729bc14', }, }) gitment.render('container')]]></content>
       <categories>
         <category>区块链归档</category>
       </categories>
